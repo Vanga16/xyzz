@@ -4,16 +4,25 @@ Credential Manager → Windows Credentials
 If any related to git remove it.
 
 git init
+
 git add .
+
 git commit -m "Initial Commit"
+
 git remote -v (Check if there are any previous accounts)
+
 if there
+
 git remote remove origin (the name)
+
 git remote add origin (link from your repository)
+
 git config --global user.name "Vangeli"
+
 git config --global user.email "mail"
 
 git push -u origin main
+
 Sign with code
 
 
