@@ -187,3 +187,33 @@ kubectl ge pods
 kubectl get svc
 
 fort ouput localhost:(nodePort in service.yaml)
+
+
+
+
+exp11 testing with selenium
+
+
+Testing Stage Steps
+
+Run npm init -y command.​
+
+Install the selenium webdriver package:
+
+Command: npm install selenium-webdriver.​
+
+Install chromedriver:
+
+Command: npm install chromedriver.​
+
+Write a test.js code.​
+
+Run the command npx http-server.​
+
+In another terminal, run: node test.js.​
+
+The output will be:
+
+Test Result: Login successful! Welcome, Karthik
+
+Test Passed
